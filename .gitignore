@@ -1,0 +1,4 @@
+BackEndAPI/Migrations/*
+BackEndAPI/bin/
+BackEndAPI/obj/
+.vs/
